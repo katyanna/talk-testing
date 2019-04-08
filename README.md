@@ -27,6 +27,8 @@ At first sight, tests may seem confusing and even a bit scary. There are many to
 #### tutorials
 [✓] [Getting Started With Testing in Python](https://realpython.com/python-testing/)
 
+[✓] [Software Testing, by Udacity](https://classroom.udacity.com/courses/cs258)
+
 
 #### videos && talks
 [✓] [Unit Tests in Python || Python Tutorial || Learn Python Programming, by Socratica](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
