@@ -11,9 +11,9 @@ At first sight, tests may seem confusing and even a bit scary. There are many to
 
 [~] Python Testing Cookbook, by Greg L. Turnquist
 
-[ ] Test Driven Development: By Example, by Kent Beck
+[  ] Test Driven Development: By Example, by Kent Beck
 
-[ ] Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing, by David Sale
+[  ] Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing, by David Sale
 
 
 #### blog posts
@@ -22,6 +22,8 @@ At first sight, tests may seem confusing and even a bit scary. There are many to
 [✓] [Philosophy Of Test Automation, by xUnit Patterns.com](http://xunitpatterns.com/Philosophy%20Of%20Test%20Automation.html)
 
 [✓] [Software Testing… The Road Map, by Anas Fitiani](https://medium.com/tech-tajawal/software-testing-the-road-map-5807a5590886)
+
+[  ] [Integration testing or how to sleep well at nights](https://enterprisecraftsmanship.com/2015/07/13/integration-testing-or-how-to-sleep-well-at-nights/)
 
 
 #### tutorials
@@ -32,6 +34,8 @@ At first sight, tests may seem confusing and even a bit scary. There are many to
 
 #### videos && talks
 [✓] [Unit Tests in Python || Python Tutorial || Learn Python Programming, by Socratica](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+
+[✓] [Getting Started Testing, by Ned Batchelde](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 
 [✓] [Introduction to Unit Testing in Python with Pytest, by Michael Tom-Wing and Christie Wilson](https://pyvideo.org/pycon-us-2016/michael-tom-wing-christie-wilson-introduction-to-unit-testing-in-python-with-pytest-pycon-2016.html)
 
